@@ -24,6 +24,9 @@ Project Screenshots:
 
 <img width="1440" alt="Screenshot 2023-01-30 at 12 57 43 PM" src="https://user-images.githubusercontent.com/69595881/215519233-43045698-65f0-4cfe-9ac9-fe43c7351af7.png">
 
+<img width="1440" alt="Screenshot 2023-01-30 at 12 58 00 PM" src="https://user-images.githubusercontent.com/69595881/215519501-b14ccdce-395e-44b7-a10d-c692d0c96fdb.png">
+
+
    
    
 
